@@ -12,10 +12,6 @@ p{
 h1{
     display: inline-block;
 }
-h1:hover{
-    display: inline-block;
-    font-size: 2em;
-}
 .top {
     padding: 100px;
     position: relative;
